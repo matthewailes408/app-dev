@@ -13,4 +13,4 @@ FROM is a science fiction horror television series about a mysterious town that 
 * **Town:** 
 * **Clinic:**
 
-If you haven't seen it, check out more info [here](](https://www.imdb.com/title/tt9813792)).
+If you haven't seen it, check out more info [here](https://www.imdb.com/title/tt9813792).
